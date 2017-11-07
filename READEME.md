@@ -1,0 +1,1 @@
+Implementation of Conway’s Game of Life for a Coding Challenge
